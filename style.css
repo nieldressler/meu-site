@@ -38,7 +38,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    }
+}
 
 .apresentacao__conteudo{
     width: 615px;
@@ -95,8 +95,12 @@ body{
     background-color: #272727;
 }
 
+.apresentacao__foto{
+    padding: 5% 5% 5% 5%;
+}
+
 .rodape{
-   
+
     color: #000000;
     background-color: #22D4FD;
     padding: 24px;
