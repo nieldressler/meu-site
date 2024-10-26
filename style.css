@@ -57,6 +57,12 @@ body{
     font-family: "Montserrat", sans-serif;
 }
 
+.apresentacao__conteudo__foto{
+    display: flex;
+    width: 100%;
+    padding: 5% 5% 5% 15%;
+}
+
 .apresentacao__links{
     display: flex;
     flex-direction: column;
@@ -95,18 +101,14 @@ body{
     background-color: #272727;
 }
 
-.apresentacao__foto{
-    padding: 5% 5% 5% 5%;
-}
-
 .rodape{
-
     color: #000000;
     background-color: #22D4FD;
-    padding: 24px;
+    padding: 8px;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-size: 24px;
     font-weight: 400;
-    display: block;
+    display: block;    
 }
+
