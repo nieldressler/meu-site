@@ -58,7 +58,7 @@ body{
 }
 
 .apresentacao__conteudo__foto{
-    display: flex;
+    display: flexbox;
     width: 100%;
     padding: 5% 5% 5% 15%;
 }
@@ -109,6 +109,7 @@ body{
     font-family: 'Montserrat', sans-serif;
     font-size: 24px;
     font-weight: 400;
-    display: block;    
+    display: flexbox; 
+    position: relative;   
 }
 
